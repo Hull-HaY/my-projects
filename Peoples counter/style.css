@@ -1,0 +1,79 @@
+h1 {
+margin-top: 10px;
+margin-bottom: 10px;
+  text-decoration: overline;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(12, 105, 211);
+  animation: backwards;
+  animation-play-state: running;
+  
+  
+}
+body {
+  background-color: bisque;
+  background-size: cover;
+  font-weight: bold;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  text-size-adjust: large;
+  font-size: 80px;
+  background-color: none;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  color: rgb(238, 238, 238);
+}
+
+button {
+   border-radius: 5px;
+   color: aliceblue;
+   font-weight: 1000px;
+   margin: 10px;
+   padding: 15px;
+   font-style:bold;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-top:50px;
+   font-size: 15px;
+}
+
+#increment-btn{
+  background: darkgreen;
+}
+ 
+#save-btn {
+  background: rgb(2, 8, 69);
+}
+p {
+  color: rgb(11, 112, 227);
+  font-size: 30px;
+  border: 5px;
+  border-color: rgb(0, 0, 0);
+  border-radius: 5px;
+  border-style:groove;
+  text-align: left;
+  margin-top: 100px;
+}
+#restart-btn {
+  background: darkred;
+}
+#total-el {
+  color: white;
+  padding-right: 1000;
+  margin-left: 1000px;
+  text-align: left;
+  margin-top: 5px;
+}
+#decrement-btn {
+  background-color:black;
+  border-color: rgb(18, 122, 212);
+  border-style:double;
+}
+h3 {
+  text-align: left;
+  color: aliceblue;
+  
+}
+H4 {
+  color: aliceblue;
+}
